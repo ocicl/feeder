@@ -4,7 +4,7 @@ RSS, Atom and general feed parsing and generating
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/shinmera/feeder.git   |
-| commit  | b05f517  |
+| commit  | 21e8100  |
 | systems | feeder |
 |---------+-------------------------------------------|
 
